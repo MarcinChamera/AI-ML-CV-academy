@@ -1,6 +1,6 @@
 # AI-ML-academy
 
-## Modules covered so far (in order):
+## Modules covered(in order):
 ### classic-cv (for face swap):
   - my task was to prepare an example of homography transformation for a domain of my choice, which hasn't been already covered during the academy (overlaying the company's logo on a parallelogram seen at an angle, homography of two maps of the same place GIS from a bird's eye view, in a different projection, two images of a room with a change in the X axis - joining at common keypoints, creating BirdEyeView based on two images from a car's camera). For this purpose I prepared an AR homography example, with possibility to apply an image onto a Pantone card with markers - either from photo or by using a webcam.
 ### advanced-statistical-learning:
